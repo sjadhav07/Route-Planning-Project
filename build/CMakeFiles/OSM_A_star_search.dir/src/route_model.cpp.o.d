@@ -1,7 +1,7 @@
 CMakeFiles/OSM_A_star_search.dir/src/route_model.cpp.o: \
- /home/sudarshan/CppND-Route-Planning-Project/src/route_model.cpp \
+ /home/sudarshan/Route-Planning-Project/src/route_model.cpp \
  /usr/include/stdc-predef.h \
- /home/sudarshan/CppND-Route-Planning-Project/src/route_model.h \
+ /home/sudarshan/Route-Planning-Project/src/route_model.h \
  /usr/include/c++/13/limits \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -112,7 +112,7 @@ CMakeFiles/OSM_A_star_search.dir/src/route_model.cpp.o: \
  /usr/include/c++/13/bits/erase_if.h \
  /usr/include/c++/13/bits/memory_resource.h /usr/include/c++/13/cstddef \
  /usr/include/c++/13/bits/uses_allocator_args.h \
- /home/sudarshan/CppND-Route-Planning-Project/src/model.h \
+ /home/sudarshan/Route-Planning-Project/src/model.h \
  /usr/include/c++/13/vector /usr/include/c++/13/bits/stl_uninitialized.h \
  /usr/include/c++/13/bits/stl_vector.h \
  /usr/include/c++/13/bits/stl_bvector.h \

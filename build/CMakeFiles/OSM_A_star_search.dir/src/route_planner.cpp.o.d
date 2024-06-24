@@ -1,7 +1,7 @@
 CMakeFiles/OSM_A_star_search.dir/src/route_planner.cpp.o: \
- /home/sudarshan/CppND-Route-Planning-Project/src/route_planner.cpp \
+ /home/sudarshan/Route-Planning-Project/src/route_planner.cpp \
  /usr/include/stdc-predef.h \
- /home/sudarshan/CppND-Route-Planning-Project/src/route_planner.h \
+ /home/sudarshan/Route-Planning-Project/src/route_planner.h \
  /usr/include/c++/13/iostream /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -155,7 +155,7 @@ CMakeFiles/OSM_A_star_search.dir/src/route_planner.cpp.o: \
  /usr/include/c++/13/bits/stl_vector.h \
  /usr/include/c++/13/bits/stl_bvector.h \
  /usr/include/c++/13/bits/vector.tcc \
- /home/sudarshan/CppND-Route-Planning-Project/src/route_model.h \
+ /home/sudarshan/Route-Planning-Project/src/route_model.h \
  /usr/include/c++/13/limits /usr/include/c++/13/cmath /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/math-vector.h \
  /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
@@ -186,7 +186,7 @@ CMakeFiles/OSM_A_star_search.dir/src/route_planner.cpp.o: \
  /usr/include/c++/13/bits/enable_special_members.h \
  /usr/include/c++/13/bits/node_handle.h \
  /usr/include/c++/13/bits/erase_if.h \
- /home/sudarshan/CppND-Route-Planning-Project/src/model.h \
+ /home/sudarshan/Route-Planning-Project/src/model.h \
  /usr/include/c++/13/algorithm /usr/include/c++/13/bits/stl_algo.h \
  /usr/include/c++/13/bits/algorithmfwd.h \
  /usr/include/c++/13/bits/stl_heap.h \

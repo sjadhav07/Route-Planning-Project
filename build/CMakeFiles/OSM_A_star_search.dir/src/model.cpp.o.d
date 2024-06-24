@@ -1,7 +1,7 @@
 CMakeFiles/OSM_A_star_search.dir/src/model.cpp.o: \
- /home/sudarshan/CppND-Route-Planning-Project/src/model.cpp \
+ /home/sudarshan/Route-Planning-Project/src/model.cpp \
  /usr/include/stdc-predef.h \
- /home/sudarshan/CppND-Route-Planning-Project/src/model.h \
+ /home/sudarshan/Route-Planning-Project/src/model.h \
  /usr/include/c++/13/vector /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -127,8 +127,8 @@ CMakeFiles/OSM_A_star_search.dir/src/model.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/13/bits/charconv.h \
  /usr/include/c++/13/bits/basic_string.tcc \
- /home/sudarshan/CppND-Route-Planning-Project/thirdparty/pugixml/src/pugixml.hpp \
- /home/sudarshan/CppND-Route-Planning-Project/thirdparty/pugixml/src/pugiconfig.hpp \
+ /home/sudarshan/Route-Planning-Project/thirdparty/pugixml/src/pugixml.hpp \
+ /home/sudarshan/Route-Planning-Project/thirdparty/pugixml/src/pugiconfig.hpp \
  /usr/include/c++/13/exception /usr/include/c++/13/bits/exception_ptr.h \
  /usr/include/c++/13/bits/cxxabi_init_exception.h \
  /usr/include/c++/13/typeinfo /usr/include/c++/13/bits/nested_exception.h \

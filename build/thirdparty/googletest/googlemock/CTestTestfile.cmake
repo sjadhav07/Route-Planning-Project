@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /home/sudarshan/CppND-Route-Planning-Project/thirdparty/googletest/googlemock
-# Build directory: /home/sudarshan/CppND-Route-Planning-Project/build/thirdparty/googletest/googlemock
+# Source directory: /home/sudarshan/Route-Planning-Project/thirdparty/googletest/googlemock
+# Build directory: /home/sudarshan/Route-Planning-Project/build/thirdparty/googletest/googlemock
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.

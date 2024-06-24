@@ -27,6 +27,20 @@ static std::optional<std::vector<std::byte>> ReadFile(const std::string &path)
     return std::move(contents);
 }
 
+// TODO 1: Function to get and validate user input within the specified range
+float getValidatedInput(const std::string &prompt, float min, float max) {
+    float value;
+    std::cout << prompt;
+    std::cin >> value;
+    while (!(std::cin) || value < min || value > max) {
+        std::cout << "Invalid entry. " << prompt;
+        std::cin.clear();  // Clear the error flag on cin
+        std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');  // Ignore incorrect input
+        std::cin >> value;  // Re-read the input
+    }
+    return value;
+}
+
 int main(int argc, const char **argv)
 {    
     std::string osm_data_file = "";
@@ -55,15 +69,11 @@ int main(int argc, const char **argv)
     // TODO 1: Declare floats `start_x`, `start_y`, `end_x`, and `end_y` and get
     // user input for these values using std::cin. Pass the user input to the
     // RoutePlanner object below in place of 10, 10, 90, 90.
-    float start_x, start_y, end_x, end_y;
-    std::cout<<"choose input start_x from 0 to 100:"<<'\n';
-    std::cin >> start_x;
-    std::cout<<"choose input start_y from 0 to 100:"<<'\n';
-    std::cin >> start_y;
-    std::cout<<"choose input end_x from 0 to 100:"<<'\n';
-    std::cin >> end_x;
-    std::cout<<"choose input end_y from 0 to 100:"<<'\n';
-    std::cin >> end_y;
+    // Getting validated user inputs
+    float start_x = getValidatedInput("Please type in start_x from 0-100: ", 0, 100);
+    float start_y = getValidatedInput("Please type in start_y from 0-100: ", 0, 100);
+    float end_x = getValidatedInput("Please type in end_x from 0-100: ", 0, 100);
+    float end_y = getValidatedInput("Please type in end_y from 0-100: ", 0, 100);
 
     // Build Model.
     RouteModel model{osm_data};

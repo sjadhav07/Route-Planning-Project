@@ -1,7 +1,7 @@
 CMakeFiles/OSM_A_star_search.dir/src/render.cpp.o: \
- /home/sudarshan/CppND-Route-Planning-Project/src/render.cpp \
+ /home/sudarshan/Route-Planning-Project/src/render.cpp \
  /usr/include/stdc-predef.h \
- /home/sudarshan/CppND-Route-Planning-Project/src/render.h \
+ /home/sudarshan/Route-Planning-Project/src/render.h \
  /usr/include/c++/13/unordered_map \
  /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
@@ -331,5 +331,5 @@ CMakeFiles/OSM_A_star_search.dir/src/render.cpp.o: \
  /usr/include/cairo/cairo-xlib.h /usr/include/cairo/cairo.h \
  /usr/local/include/io2d/xio2d_cairo_xlib_unmanaged_output_surfaces.h \
  /usr/local/include/io2d/xio2d_cairo_xlib_surfaces_impl.h \
- /home/sudarshan/CppND-Route-Planning-Project/src/route_model.h \
- /home/sudarshan/CppND-Route-Planning-Project/src/model.h
+ /home/sudarshan/Route-Planning-Project/src/route_model.h \
+ /home/sudarshan/Route-Planning-Project/src/model.h

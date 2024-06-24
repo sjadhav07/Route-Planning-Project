@@ -1,5 +1,5 @@
 CMakeFiles/OSM_A_star_search.dir/src/main.cpp.o: \
- /home/sudarshan/CppND-Route-Planning-Project/src/main.cpp \
+ /home/sudarshan/Route-Planning-Project/src/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13/optional \
  /usr/include/c++/13/type_traits \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
@@ -333,7 +333,7 @@ CMakeFiles/OSM_A_star_search.dir/src/main.cpp.o: \
  /usr/include/cairo/cairo-xlib.h /usr/include/cairo/cairo.h \
  /usr/local/include/io2d/xio2d_cairo_xlib_unmanaged_output_surfaces.h \
  /usr/local/include/io2d/xio2d_cairo_xlib_surfaces_impl.h \
- /home/sudarshan/CppND-Route-Planning-Project/src/route_model.h \
- /home/sudarshan/CppND-Route-Planning-Project/src/model.h \
- /home/sudarshan/CppND-Route-Planning-Project/src/render.h \
- /home/sudarshan/CppND-Route-Planning-Project/src/route_planner.h
+ /home/sudarshan/Route-Planning-Project/src/route_model.h \
+ /home/sudarshan/Route-Planning-Project/src/model.h \
+ /home/sudarshan/Route-Planning-Project/src/render.h \
+ /home/sudarshan/Route-Planning-Project/src/route_planner.h

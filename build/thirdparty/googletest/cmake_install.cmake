@@ -1,4 +1,4 @@
-# Install script for directory: /home/sudarshan/CppND-Route-Planning-Project/thirdparty/googletest
+# Install script for directory: /home/sudarshan/Route-Planning-Project/thirdparty/googletest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,7 +44,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/sudarshan/CppND-Route-Planning-Project/build/thirdparty/googletest/googlemock/cmake_install.cmake")
+  include("/home/sudarshan/Route-Planning-Project/build/thirdparty/googletest/googlemock/cmake_install.cmake")
 
 endif()
 
